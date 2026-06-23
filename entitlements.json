@@ -1,0 +1,6 @@
+{
+  "_comment": "Grant cape tiers by Minecraft username (lowercase) or UUID. Tiers: bronze, silver, gold (cumulative), beta, staff. Edit and commit to update; the launcher syncs within a few minutes.",
+  "users": {
+    "972x": ["staff"]
+  }
+}
